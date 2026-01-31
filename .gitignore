@@ -1,0 +1,23 @@
+# Dependências
+node_modules/
+
+# Build
+dist/
+build/
+*.local
+
+# Ambiente
+.env
+.env.local
+.env.*.local
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
